@@ -39,7 +39,7 @@ Alura Amigo Secreto es una aplicación web para organizar y realizar el juego de
    ```
 ## 🌍 Deploy
 
-El proyecto está desplegado en: [🔗 Enlace a la aplicación](URL_DE_TU_DEPLOY)
+El proyecto está desplegado en: [🔗 Enlace a la aplicación](https://erick200011.github.io/Alura-AmigoSecreto/)
 
 ## 👥 Contribuciones
 
